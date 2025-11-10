@@ -1,5 +1,5 @@
 # CSCI 331 
-This repository contains the group work for Homework 3 on Fully Qualified Domains (FQDs), Fully Qualified Table Names (FQTNs), and Taxonomies in relational database design and governance.
+This repository contains the group work for Fully Qualified Domains (FQDs), Fully Qualified Table Names (FQTNs), and Taxonomies in relational database design and governance.
 
 ## Members
 - Giorgos Stefanis
