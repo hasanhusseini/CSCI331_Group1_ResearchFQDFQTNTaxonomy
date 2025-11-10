@@ -1,4 +1,4 @@
-# CSCI 331 
+# CSCI 331 - Fully Qualified Domains (FQDs), Fully Qualified Table Names (FQTNs), and Taxonomies
 This repository contains the group work for Fully Qualified Domains (FQDs), Fully Qualified Table Names (FQTNs), and Taxonomies
 
 ## Members
