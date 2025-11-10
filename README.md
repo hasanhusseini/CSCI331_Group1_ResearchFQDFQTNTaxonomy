@@ -10,8 +10,8 @@ This repository contains the group work for Fully Qualified Domains (FQDs), Full
 - Youlun Wang
 
 ## Contents
-- `Documents`→ Individual notes from each member summarizing their contribution and key insights.
-- `Video` → MP4 recording of the whole presentation. 
+- `Notes`→ Individual notes from each member summarizing their contribution and key insights.
+- `Presentation` → MP4 recording of the whole presentation. 
 
 ## Submission
 Individual notes and presentation videos are located inside the respective folders.
