@@ -11,7 +11,7 @@ This repository contains the group work for Fully Qualified Domains (FQDs), Full
 
 ## Contents
 - `Notes`→ Individual notes from each member summarizing their contribution and key insights.
-- `Presentation` → MP4 recording of the whole presentation. 
+- `Presentation` → MP4 recording of the whole presentation & PDF of the presentation. 
 
 ## Submission
 Individual notes and presentation videos are located inside the respective folders.
